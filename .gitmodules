@@ -1,0 +1,6 @@
+[submodule "api-data"]
+	path = api-data
+	url = https://github.com/Thorin88/api-data
+[submodule "sprites"]
+	path = sprites
+	url = https://github.com/Thorin88/sprites
