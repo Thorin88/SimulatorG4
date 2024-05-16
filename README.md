@@ -1,6 +1,6 @@
 # AI to Play Pokemon Battles
 
-[SimulatorG4 in Action](./readme_resources/intro.png)
+![SimulatorG4 in Action](./readme_resources/intro.png)
 
 # Contents
 
@@ -51,11 +51,11 @@ Additionally supports concepts which required dedicated implementation work, suc
 
 The figure below shows the concepts that are supported by the simulator, for those who are familar with Pokemon.
 
-[Simulator Features](./readme_resources/simulator_features.png)
+![Simulator Features](./readme_resources/simulator_features.png)
 
 The simulator can provide summaries of your Pokemon, shown in the figure below.
 
-[Pokemon Summary](./readme_resources/pokemon_summary.png)
+![Pokemon Summary](./readme_resources/pokemon_summary.png)
 
 # Running the Simulator
 
